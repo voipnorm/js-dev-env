@@ -3,3 +3,8 @@ Things my checklist starter kit does
 -git add .
 -git commit -m "add new feature"
 -git push
+
+node security check
+  - run manually - nsp check
+  - npm start -s
+NPM scripts
