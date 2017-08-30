@@ -8,3 +8,6 @@ node security check
   - run manually - nsp check
   - npm start -s
 NPM scripts
+
+Testing
+Mocha, Chia, JSDOM, Node, Alongside
