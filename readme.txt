@@ -10,4 +10,7 @@ node security check
 NPM scripts
 
 Testing
-Mocha, Chia, JSDOM, Node, Alongside
+Mocha, Chia- assertionLibrary, JSDOM, Node, Alongside
+
+CI testing
+https://travis-ci.org/
